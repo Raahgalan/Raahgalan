@@ -1,16 +1,15 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERIL!
 
-<!--
-**Raahgalan/Raahgalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer, meu nome é Rakelly Galan!
+- Estou estudando na [Alura](https://alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScipt
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Você pode entrar em contato comigo
+
+  -rakelli.galan@escola.pr.gov.br
+  
+  -@rakellygalan
+
+![](https://media.tenor.com/6tzpObH_rnEAAAAM/mochi-mochimon.gif)
