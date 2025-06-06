@@ -1,4 +1,4 @@
-## BOAS VINDAS AO MEU PERIL!
+## BOAS VINDAS AO MEU PERIL!💗
 
 Prazer, meu nome é Rakelly Galan!
 - Estou estudando na [Alura](https://alura.com.br)
@@ -6,10 +6,10 @@ Prazer, meu nome é Rakelly Galan!
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
-  ## Você pode entrar em contato comigo
+  ## Você pode entrar em contato comigo 🌸
 
   -rakelli.galan@escola.pr.gov.br
   
-  -@rakellygalan
+  -@rakellygalan 🍀
 
 ![](https://media.tenor.com/6tzpObH_rnEAAAAM/mochi-mochimon.gif)
