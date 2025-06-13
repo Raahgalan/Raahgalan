@@ -1,4 +1,4 @@
-## BOAS VINDAS AO MEU PERIL!💗
+## BOAS VINDAS AO MEU PERFIL💗
 
 Prazer, meu nome é Rakelly Galan!
 - Estou estudando na [Alura](https://alura.com.br)
